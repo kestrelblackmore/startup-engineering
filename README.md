@@ -1,4 +1,4 @@
-### Stanford Startup Engineering Solutions
+## Startup Engineering Course Solutions
 
 These are **MY** solutions to the homework for the **Stanford Startup Engineering Course** that started June 2013. The course was run on CourseRA. (https://www.coursera.org/course/startup)
 
